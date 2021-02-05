@@ -1,2 +1,6 @@
-# verificador-de-idade
- Exercicio resolvido no curso de JavaScript do curso em vídeo
+# Verificador de Idade
+ Exercicio resolvido no curso de JavaScript do *CursoemVídeo*
+
+ ![VerificadorIdade](./imagens/verificador-de-idade.png)
+
+ 
